@@ -1,6 +1,6 @@
 RACE_ID,RACE
-R0,Unknown
-R3,Black
-R4,Other
+R4,Unknown
+R2,Black
+R0,White
 R1,Asian or Pacific Islander
-R2,White
+R3,Other
