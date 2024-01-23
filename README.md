@@ -6,7 +6,8 @@ Maggie Puch,
 Heather Mills,  
 Kevin Shaw
 
-Project 3 Proposal (see https://docs.google.com/document/d/1WbRGsEF2DYWcwjrOgg925kgXhEV1TOvrne444RviATo/edit for more)
+Project 3 Proposal - https://docs.google.com/document/d/1WbRGsEF2DYWcwjrOgg925kgXhEV1TOvrne444RviATo/edit 
+Project 3 Class Presentation - https://docs.google.com/presentation/d/1X2oOnJIE_tC8D5DSQTcI9oSDcC9UzQYEogDXvHwDrX8/edit?usp=sharing
 
 ### Project Overview:
 For project 3, our team used a CSV file from Kaggle with information regarding childhood allergies. The CSV file is extensive with over 50 columns and 300,000+ rows of data. Our primary steps for data updates are below: 
